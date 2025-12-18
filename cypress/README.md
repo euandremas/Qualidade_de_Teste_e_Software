@@ -183,6 +183,15 @@ Este projeto consolida os seguintes aprendizados:
 
 ---
 
+## 📝 Avaliação
+
+Este projeto foi desenvolvido conforme os requisitos da atividade final, contemplando:
+
+- Testes manuais documentados em ferramenta de gerenciamento
+- Automação Web com Cypress + BDD
+- Versionamento em GitHub com README explicativo
+- Evidências de execução (prints e vídeo)
+
 ## 👨‍🎓 Autor
 
 **André Santos**
