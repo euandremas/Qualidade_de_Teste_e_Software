@@ -8,12 +8,12 @@ A automação foi construída utilizando **Cypress** integrado com **Cucumber**,
 
 ## 📌 Tecnologias Utilizadas
 
-* **Cypress** (v15+)
-* **Cypress Cucumber Preprocessor (@badeball)**
-* **JavaScript**
-* **BDD (Gherkin)**
-* **Page Object Model**
-* **AutomationExercise** (site de prática)
+- **Cypress** (v15+)
+- **Cypress Cucumber Preprocessor (@badeball)**
+- **JavaScript**
+- **BDD (Gherkin)**
+- **Page Object Model**
+- **AutomationExercise** (site de prática)
 
 ---
 
@@ -60,11 +60,11 @@ README.md
 
 Os testes manuais foram planejados, executados e documentados em ferramenta de gerenciamento de testes, com:
 
-* criação de cenários
-* plano de testes
-* execução manual
-* evidências anexadas
-* relatório de execução
+- criação de cenários
+- plano de testes
+- execução manual
+- evidências anexadas
+- relatório de execução
 
 ### 🔹 Testes Automatizados (Web)
 
@@ -102,9 +102,9 @@ Scenario: Realizar pedido completo com sucesso
 
 ### 1️⃣ Pré-requisitos
 
-* Node.js instalado
-* Git (opcional)
-* Navegador Google Chrome
+- Node.js instalado
+- Git (opcional)
+- Navegador Google Chrome
 
 ---
 
@@ -124,12 +124,12 @@ npm install
 npx cypress open
 ```
 
-* Selecione **E2E Testing**
-* Escolha o navegador
-* Execute:
+- Selecione **E2E Testing**
+- Escolha o navegador
+- Execute:
 
-  * `login.feature`
-  * `pedido.feature`
+  - `login.feature`
+  - `pedido.feature`
 
 ---
 
@@ -164,9 +164,9 @@ Exemplo:
 
 ## 🎥 Evidências
 
-* Execução dos testes automatizados foi gravada em vídeo
-* Prints do Cypress Runner foram gerados como evidência
-* Testes manuais documentados em ferramenta de gerenciamento de testes
+- Execução dos testes automatizados foi gravada em vídeo
+- Prints do Cypress Runner foram gerados como evidência
+- Testes manuais documentados em ferramenta de gerenciamento de testes
 
 ---
 
@@ -174,14 +174,28 @@ Exemplo:
 
 Este projeto consolida os seguintes aprendizados:
 
-* Planejamento de testes
-* Escrita de cenários BDD
-* Testes manuais e automatizados
-* Automação Web com Cypress
-* Organização de projeto em Page Objects
-* Boas práticas de QA e Automação
+- Planejamento de testes
+- Escrita de cenários BDD
+- Testes manuais e automatizados
+- Automação Web com Cypress
+- Organização de projeto em Page Objects
+- Boas práticas de QA e Automação
 
 ---
+
+## 📝 Avaliação
+
+Este projeto foi desenvolvido conforme os requisitos da atividade final, contemplando:
+
+- Testes manuais documentados em ferramenta de gerenciamento
+- Automação Web com Cypress + BDD
+- Versionamento em GitHub com README explicativo
+- Evidências de execução (prints e vídeo)
+
+## 🚀 CI/CD (Opcional)
+
+A integração com GitHub Actions não foi implementada, pois não era requisito obrigatório da atividade.
+Entretanto, o projeto está preparado para futura automação de pipeline CI/CD.
 
 ## 👨‍🎓 Autor
 
