@@ -47,6 +47,7 @@ cypress/
 │  ├─ commands.js
 │  └─ e2e.js
 cypress.config.js
+package-lock.json
 package.json
 README.md
 ```
