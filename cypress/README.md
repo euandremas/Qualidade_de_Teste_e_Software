@@ -192,6 +192,11 @@ Este projeto foi desenvolvido conforme os requisitos da atividade final, contemp
 - Versionamento em GitHub com README explicativo
 - Evidências de execução (prints e vídeo)
 
+## 🚀 CI/CD (Opcional)
+
+A integração com GitHub Actions não foi implementada, pois não era requisito obrigatório da atividade.
+Entretanto, o projeto está preparado para futura automação de pipeline CI/CD.
+
 ## 👨‍🎓 Autor
 
 **André Santos**
