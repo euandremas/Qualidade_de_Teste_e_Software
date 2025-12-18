@@ -6,8 +6,8 @@ Given("que estou na página inicial do AutomationExercise", () => {
   LoginPage.visitHome();
 });
 
-Given("acesso a tela de Login", () => {
-  LoginPage.openLogin();
+Given('acesso a tela de Login', () => {
+  cy.visit('/login');
 });
 
 When("realizo login com usuário válido", () => {
